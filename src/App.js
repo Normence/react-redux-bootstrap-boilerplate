@@ -11,6 +11,12 @@ function App() {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
         </header>
+        <nav></nav>
+        <article>
+          <section></section>
+        </article>
+        <aside></aside>
+        <footer></footer>
       </div>
     </Provider>
   );
